@@ -1,2 +1,2 @@
 # hackerrank
-this repository contains my hackerrank solutions
+this repository contains some of my hackerrank solutions
